@@ -1,0 +1,10 @@
+C:\Users\merty\source\repos\qweqw\qweqw\bin\Debug\qweqw.exe.config
+C:\Users\merty\source\repos\qweqw\qweqw\bin\Debug\qweqw.exe
+C:\Users\merty\source\repos\qweqw\qweqw\bin\Debug\qweqw.pdb
+C:\Users\merty\source\repos\qweqw\qweqw\obj\Debug\qweqw.csprojAssemblyReference.cache
+C:\Users\merty\source\repos\qweqw\qweqw\obj\Debug\qweqw.Form1.resources
+C:\Users\merty\source\repos\qweqw\qweqw\obj\Debug\qweqw.Properties.Resources.resources
+C:\Users\merty\source\repos\qweqw\qweqw\obj\Debug\qweqw.csproj.GenerateResource.cache
+C:\Users\merty\source\repos\qweqw\qweqw\obj\Debug\qweqw.csproj.CoreCompileInputs.cache
+C:\Users\merty\source\repos\qweqw\qweqw\obj\Debug\qweqw.exe
+C:\Users\merty\source\repos\qweqw\qweqw\obj\Debug\qweqw.pdb
